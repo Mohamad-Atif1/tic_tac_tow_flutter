@@ -1,0 +1,10 @@
+const int numOfElementsOnRow = 3;
+const double radius = 12;
+const double borderWidth = 10;
+const double displayLargeSize = 72;
+const double titleLarge = 35;
+const double titleMeduim = 29;
+const double heightSpace = 20;
+const double widthSpace = 80;
+const double buttonHeight = 12.5;
+const double buttonWidth = 80;

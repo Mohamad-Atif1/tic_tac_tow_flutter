@@ -1,0 +1,11 @@
+const String appName = "Tic Tac Tow";
+const String playerX = "player X";
+const String playerO = "player O";
+const String oPlay = "O Turn";
+const String xPlay = "X Turn";
+const String x = 'X';
+const String o = 'O';
+const String oScore = "O Score";
+const String xScore = "X Score";
+const String restart = "Restart";
+const String draw = "Draw";
